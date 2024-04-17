@@ -1,2 +1,3 @@
 # AngryBirds
-Dibujo 2D de angry birds omg esta bonito lo juro
+Primer trabajito que subo humildemente c:
+Dibujo 2D de angry birds en Javascript omg esta bonito lo juro 😀👍
